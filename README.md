@@ -1,4 +1,3 @@
-# Current technologies
 <table>
   <tbody>
     <tr valign="top">
@@ -43,10 +42,8 @@
       <td width="20%" align="center">
         <span><strong>Ionic</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ionic-icon.svg">
-      </td>
-     
+      </td>    
     </tr>
-
   </tbody>
 </table>
 
