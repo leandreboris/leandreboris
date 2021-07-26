@@ -1,11 +1,4 @@
-# 👋🏻 Hey, I am Leandre Boris 
-## I am a Computer Science Student
-
-<img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=50 height=50>  I have built some projects and am planning to build some more.<br>
-
-## My competences 
-
-
+# Current technologies
 <table>
   <tbody>
     <tr valign="top">
