@@ -47,7 +47,9 @@
   </tbody>
 </table>
 
+<br/>
 
+### Find me on Linkedin or Gmail
 
   <a href="https://www.linkedin.com/in/l%C3%A9andre-boris-wangrawa-925716205/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -56,12 +58,7 @@
     <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
-<br>
 
 
 
-<br><br><br><br>
 
-# THAT'S ME !
-
-⭐️ From [Leandre Boris](https://github.com/leandreboris)
