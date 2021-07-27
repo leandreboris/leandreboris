@@ -49,7 +49,7 @@
 
 <br/>
 
-### Find me on Linkedin or Gmail
+### Linkedin | Gmail
 
   <a href="https://www.linkedin.com/in/l%C3%A9andre-boris-wangrawa-925716205/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
