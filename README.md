@@ -63,8 +63,8 @@
 	              <div><strong>Oracle</strong></div>
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg"><br><br><br>
-	              <div><strong>MariaDB</strong></div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sqlite.svg"><br><br><br>
+	              <div><strong>SQLite</strong></div>
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"><br><br><br>
