@@ -1,4 +1,5 @@
-# Most familiar technologies 
+<h1 align="center">Most familiar technologies</h1>
+
 
 <br/>
 
@@ -76,14 +77,16 @@
 
 <br/>
 
-### Linkedin | Gmail
+<div align="center">
+	<h3>Linkedin | Gmail</h3>
 
   <a href="https://www.linkedin.com/in/l%C3%A9andre-boris-wangrawa-925716205/">
-    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:leandreboris09@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+    <img align="center" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>	
+</div>
   
 
 
