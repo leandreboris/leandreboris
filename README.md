@@ -37,8 +37,8 @@
 	              <div><strong>Spring</strong></div>
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg"><br><br><br>
-	              <div><strong>Angular</strong></div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg"><br><br><br>
+	              <div><strong>Microsoft .NET</strong></div>
       </td>
       <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg"><br><br><br>
