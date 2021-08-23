@@ -23,8 +23,8 @@
 	      <div><strong>JavaScript</strong></div>
       </td>
       <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg"><br><br><br>
-	              <div><strong>Php</strong></div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg"><br><br><br>
+	              <div><strong>Angular</strong></div>
       </td>
      </tr>
     <tr>
